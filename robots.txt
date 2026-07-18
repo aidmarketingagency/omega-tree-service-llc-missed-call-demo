@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aidmarketingagency.github.io/omega-tree-service-llc-missed-call-demo/sitemap.xml
